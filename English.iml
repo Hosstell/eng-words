@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/backend" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Pipenv (English)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/frontend/public" />
+        <option value="$MODULE_DIR$/frontend/node_modules/@vue/cli-service/lib/config" />
+        <option value="$MODULE_DIR$/frontend/node_modules/@vue/cli-service/lib/commands/build" />
+        <option value="$MODULE_DIR$/frontend/node_modules/@vue/cli-service/generator/template/public" />
+        <option value="$MODULE_DIR$/frontend/node_modules/@vue/cli-plugin-eslint/node_modules/eslint/lib/formatters" />
+        <option value="$MODULE_DIR$/frontend/node_modules/jsbn" />
+        <option value="$MODULE_DIR$/frontend/node_modules/json3" />
+        <option value="$MODULE_DIR$/frontend/node_modules/tryer/test" />
+        <option value="$MODULE_DIR$/frontend/node_modules/tslib" />
+        <option value="$MODULE_DIR$/frontend/node_modules/eslint/lib/cli-engine/formatters" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/koa" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/echo" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/hapi/html" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/express" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/multiplex" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sockjs/examples/express-3.x" />
+        <option value="$MODULE_DIR$/frontend/node_modules/terser/tools" />
+        <option value="$MODULE_DIR$/frontend/node_modules/uri-js/tests" />
+        <option value="$MODULE_DIR$/frontend/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/frontend/node_modules/date-now/test/static" />
+        <option value="$MODULE_DIR$/frontend/node_modules/loglevel/test" />
+        <option value="$MODULE_DIR$/frontend/node_modules/uglify-js/tools" />
+        <option value="$MODULE_DIR$/frontend/node_modules/sprintf-js/demo" />
+        <option value="$MODULE_DIR$/frontend/node_modules/eventsource/example" />
+        <option value="$MODULE_DIR$/frontend/node_modules/mute-stream/coverage/lcov-report" />
+        <option value="$MODULE_DIR$/frontend/node_modules/mute-stream/coverage/lcov-report/__root__" />
+        <option value="$MODULE_DIR$/frontend/node_modules/serve-index/public" />
+        <option value="$MODULE_DIR$/frontend/node_modules/vm-browserify/example/run" />
+        <option value="$MODULE_DIR$/frontend/node_modules/faye-websocket/examples" />
+        <option value="$MODULE_DIR$/frontend/node_modules/vuetify-loader/dev" />
+        <option value="$MODULE_DIR$/frontend/node_modules/unique-filename/coverage" />
+        <option value="$MODULE_DIR$/frontend/node_modules/unique-filename/coverage/__root__" />
+        <option value="$MODULE_DIR$/frontend/node_modules/crypto-browserify/example" />
+        <option value="$MODULE_DIR$/frontend/node_modules/console-browserify/test/static" />
+        <option value="$MODULE_DIR$/frontend/node_modules/webpack-dev-server/client" />
+      </list>
+    </option>
+  </component>
+</module>
